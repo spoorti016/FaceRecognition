@@ -1,4 +1,4 @@
-# FaceRecognition
+# FaceRecognition Based Attendance System
 
 ### What steps you have to follow??
 - Download or clone my Repository to your device
