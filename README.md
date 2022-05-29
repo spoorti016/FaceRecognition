@@ -3,8 +3,8 @@
 ### What steps you have to follow??
 - Download or clone my Repository to your device
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project)
+-  Move the `config.toml` file present in the repository to the `C:\~\.streamlit\config.toml`by default the file doesn’t exist.
 -  Run `main.py` file by typing the following command in the terminal `streamlit run main.py`
-
 
 ### Project flow & explaination
 - After you run the project you have to register your face so that system can identify you, so click on register 
@@ -14,3 +14,5 @@
 - It will take some time(depends on you system).
 - Your attendance will be appended to  `Attendance.csv` file
 - You can view the attendance after clicking `View Attendance` button. It will show record in tabular format.
+
+
