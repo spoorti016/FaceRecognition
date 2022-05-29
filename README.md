@@ -16,4 +16,17 @@
 - Your attendance will be appended to  `Attendance.csv` file
 - You can view the attendance after clicking `View Attendance` button. It will show record in tabular format.
 
+### Screenshots
+
+### Simple UI Home Page
+<img src='https://github.com/spoorti016/FaceRecognition/blob/main/AppScreenshots/1653785349099.jpg'>
+
+### Register 
+<img src='https://github.com/spoorti016/FaceRecognition/blob/main/AppScreenshots/1653785349000.jpg'>
+
+## While taking Attendance
+<img src='https://github.com/spoorti016/FaceRecognition/blob/main/AppScreenshots/1653785349020.jpg'>
+
+## Attendance in tabular format 
+<img src='https://github.com/spoorti016/FaceRecognition/blob/main/AppScreenshots/1653785349042.jpg'>
 
