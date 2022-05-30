@@ -30,3 +30,5 @@
 ## Attendance in tabular format 
 <img src='https://github.com/spoorti016/FaceRecognition/blob/main/AppScreenshots/1653785349042.jpg'>
 
+## project demonstration video link
+https://drive.google.com/drive/folders/1hYkcR-NvTBYOSBJSgXSxCycg7LE70-S7
